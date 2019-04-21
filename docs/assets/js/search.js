@@ -1,0 +1,3 @@
+var typedoc = typedoc || {};
+            typedoc.search = typedoc.search || {};
+            typedoc.search.data = {"kinds":{"32":"Variable","64":"Function"},"rows":[{"id":0,"kind":32,"name":"exec","url":"globals.html#exec","classes":"tsd-kind-variable tsd-is-not-exported"},{"id":1,"kind":64,"name":"windowsWhich","url":"globals.html#windowswhich","classes":"tsd-kind-function"},{"id":2,"kind":64,"name":"linuxOrMacosWhich","url":"globals.html#linuxormacoswhich","classes":"tsd-kind-function"},{"id":3,"kind":64,"name":"which","url":"globals.html#which","classes":"tsd-kind-function"}]};
