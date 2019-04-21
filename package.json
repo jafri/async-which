@@ -1,6 +1,6 @@
 {
   "name": "async-which",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "0-dependancy TS async cross-platform utility to find path of executable",
   "keywords": [
     "which",
@@ -18,7 +18,7 @@
   "author": "Syed Jafri <syed.jafri2@ucalgary.ca>",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/jafri/async-which"
   },
   "license": "MIT",
   "engines": {
