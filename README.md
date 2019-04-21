@@ -1,4 +1,4 @@
-# async-which
+# async-which [![Build Status](https://travis-ci.com/jafri/async-which.svg?branch=master)](https://travis-ci.com/jafri/async-which)
 
 > Find binary executable path
 
