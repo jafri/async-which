@@ -1,4 +1,4 @@
-import which from "../src/"
+import which from "../src/async-which"
 
 /**
  * Dummy test
